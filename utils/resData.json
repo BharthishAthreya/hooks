@@ -1,0 +1,907 @@
+[
+    {
+        "info": {
+            "id": "90018",
+            "name": "Meghana Foods",
+            "cloudinaryImageId": "fsqyubnn1p1mo57ek4bi",
+            "locality": "HRBR Layout",
+            "areaName": "Kalyan Nagar",
+            "costForTwo": "₹500 for two",
+            "cuisines": [
+                "Biryani",
+                "Andhra",
+                "South Indian",
+                "North Indian",
+                "Chinese",
+                "Seafood"
+            ],
+            "avgRating": 4.4,
+            "feeDetails": {
+                "restaurantId": "90018",
+                "fees": [
+                    {
+                        "name": "BASE_DISTANCE",
+                        "fee": 4300
+                    },
+                    {
+                        "name": "BASE_TIME"
+                    },
+                    {
+                        "name": "ANCILLARY_SURGE_FEE"
+                    }
+                ],
+                "totalFee": 4300
+            },
+            "parentId": "635",
+            "avgRatingString": "4.4",
+            "totalRatingsString": "10K+",
+            "sla": {
+                "deliveryTime": 28,
+                "lastMileTravel": 4.8,
+                "serviceability": "SERVICEABLE",
+                "slaString": "28 mins",
+                "lastMileTravelString": "4.8 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2023-09-02 01:30:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "discountCalloutInfo": {
+                    "message": "Free Delivery",
+                    "logoCtx": {
+                        "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                    }
+                }
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {
+            "context": "seo-data-0762643b-5033-4d4a-9c43-72ca60b1558a"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/meghana-foods-hrbr-layout-kalyan-nagar-bangalore-90018",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+        "info": {
+            "id": "614641",
+            "name": "Soul Rasa",
+            "cloudinaryImageId": "wpwq51w87yw7nz2aoduv",
+            "locality": "2nd Block HRBR Layout",
+            "areaName": "Kalyan Nagar",
+            "costForTwo": "₹400 for two",
+            "cuisines": [
+                "Indian",
+                "Healthy Food",
+                "Home Food",
+                "South Indian",
+                "North Indian"
+            ],
+            "avgRating": 4.2,
+            "feeDetails": {
+                "restaurantId": "614641",
+                "fees": [
+                    {
+                        "name": "BASE_DISTANCE",
+                        "fee": 3800
+                    },
+                    {
+                        "name": "BASE_TIME"
+                    },
+                    {
+                        "name": "ANCILLARY_SURGE_FEE"
+                    }
+                ],
+                "totalFee": 3800
+            },
+            "parentId": "239281",
+            "avgRatingString": "4.2",
+            "totalRatingsString": "1K+",
+            "sla": {
+                "deliveryTime": 31,
+                "lastMileTravel": 4.8,
+                "serviceability": "SERVICEABLE",
+                "slaString": "31 mins",
+                "lastMileTravelString": "4.8 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2023-09-01 23:30:00",
+                "opened": true
+            },
+            "badges": {
+                "textExtendedBadges": [
+                    {
+                        "iconId": "guiltfree/GF_Logo_android_3x",
+                        "shortDescription": "brand",
+                        "fontColor": "#7E808C"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "",
+                                    "fontColor": "#7E808C",
+                                    "iconId": "guiltfree/GF_Logo_android_3x",
+                                    "shortDescription": "brand"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "60% OFF",
+                "subHeader": "UPTO ₹100",
+                "discountCalloutInfo": {
+                    "message": "Free Delivery",
+                    "logoCtx": {
+                        "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                    }
+                }
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {
+            "context": "seo-data-0762643b-5033-4d4a-9c43-72ca60b1558a"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/soul-rasa-2nd-block-hrbr-layout-kalyan-nagar-bangalore-614641",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+        "info": {
+            "id": "48232",
+            "name": "Kanti Sweets",
+            "cloudinaryImageId": "glmdwxahaz9uey8rzkca",
+            "locality": "Sultanpalya Main Road",
+            "areaName": "Sultan Playa",
+            "costForTwo": "₹150 for two",
+            "cuisines": [
+                "Sweets"
+            ],
+            "avgRating": 4.6,
+            "veg": true,
+            "feeDetails": {
+                "restaurantId": "48232",
+                "fees": [
+                    {
+                        "name": "BASE_DISTANCE",
+                        "fee": 3300
+                    },
+                    {
+                        "name": "BASE_TIME"
+                    },
+                    {
+                        "name": "ANCILLARY_SURGE_FEE"
+                    }
+                ],
+                "totalFee": 3300
+            },
+            "parentId": "4700",
+            "avgRatingString": "4.6",
+            "totalRatingsString": "1K+",
+            "sla": {
+                "deliveryTime": 14,
+                "lastMileTravel": 0.8,
+                "serviceability": "SERVICEABLE",
+                "slaString": "14 mins",
+                "lastMileTravelString": "0.8 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2023-09-01 22:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "discountCalloutInfo": {
+                    "message": "Free Delivery",
+                    "logoCtx": {
+                        "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                    }
+                }
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {
+            "context": "seo-data-0762643b-5033-4d4a-9c43-72ca60b1558a"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/kanti-sweets-sultanpalya-main-road-sultan-playa-bangalore-48232",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+        "info": {
+            "id": "385539",
+            "name": "Andhra Gunpowder",
+            "cloudinaryImageId": "xue2epege8dwwastvtnt",
+            "locality": "Manorampalya",
+            "areaName": "RT Nagar",
+            "costForTwo": "₹350 for two",
+            "cuisines": [
+                "Andhra",
+                "Biryani",
+                "South Indian"
+            ],
+            "avgRating": 4.3,
+            "feeDetails": {
+                "restaurantId": "385539",
+                "fees": [
+                    {
+                        "name": "BASE_DISTANCE",
+                        "fee": 2800
+                    },
+                    {
+                        "name": "BASE_TIME"
+                    },
+                    {
+                        "name": "ANCILLARY_SURGE_FEE"
+                    }
+                ],
+                "totalFee": 2800
+            },
+            "parentId": "10496",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "1K+",
+            "sla": {
+                "deliveryTime": 15,
+                "lastMileTravel": 0.6,
+                "serviceability": "SERVICEABLE",
+                "slaString": "15 mins",
+                "lastMileTravelString": "0.6 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2023-09-01 23:00:00",
+                "opened": true
+            },
+            "badges": {
+                "textExtendedBadges": [
+                    {
+                        "iconId": "guiltfree/GF_Logo_android_3x",
+                        "shortDescription": "options available",
+                        "fontColor": "#7E808C"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "",
+                                    "fontColor": "#7E808C",
+                                    "iconId": "guiltfree/GF_Logo_android_3x",
+                                    "shortDescription": "options available"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹100 OFF",
+                "subHeader": "ABOVE ₹299",
+                "discountTag": "FLAT DEAL",
+                "discountCalloutInfo": {
+                    "message": "Free Delivery",
+                    "logoCtx": {
+                        "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                    }
+                }
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {
+            "context": "seo-data-0762643b-5033-4d4a-9c43-72ca60b1558a"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/andhra-gunpowder-manorampalya-rt-nagar-bangalore-385539",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+        "info": {
+            "id": "405997",
+            "name": "Big Bowl",
+            "cloudinaryImageId": "992f217c2f122c0d8fc385855ca30722",
+            "locality": "E Block",
+            "areaName": "Sahakar Nagar",
+            "costForTwo": "₹250 for two",
+            "cuisines": [
+                "North Indian",
+                "Chinese",
+                "Tibetan",
+                "Desserts"
+            ],
+            "avgRating": 3.8,
+            "feeDetails": {
+                "restaurantId": "405997",
+                "fees": [
+                    {
+                        "name": "BASE_DISTANCE",
+                        "fee": 3800
+                    },
+                    {
+                        "name": "BASE_TIME"
+                    },
+                    {
+                        "name": "ANCILLARY_SURGE_FEE"
+                    }
+                ],
+                "totalFee": 3800
+            },
+            "parentId": "434792",
+            "avgRatingString": "3.8",
+            "totalRatingsString": "1K+",
+            "sla": {
+                "deliveryTime": 27,
+                "lastMileTravel": 4.9,
+                "serviceability": "SERVICEABLE",
+                "slaString": "27 mins",
+                "lastMileTravelString": "4.9 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2023-09-02 02:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹50 OFF",
+                "subHeader": "ABOVE ₹200",
+                "discountTag": "FLAT DEAL",
+                "discountCalloutInfo": {
+                    "message": "Free Delivery",
+                    "logoCtx": {
+                        "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                    }
+                }
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {
+            "context": "seo-data-0762643b-5033-4d4a-9c43-72ca60b1558a"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/big-bowl-e-block-sahakar-nagar-bangalore-405997",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+        "info": {
+            "id": "353806",
+            "name": "Great Indian Khichdi by EatFit",
+            "cloudinaryImageId": "0da26e86f4490626665f0b1d8810906e",
+            "locality": "Brindavan Nagar 1st Stage",
+            "areaName": "RT Nagar",
+            "costForTwo": "₹200 for two",
+            "cuisines": [
+                "Home Food",
+                "Indian",
+                "North Indian",
+                "Healthy Food",
+                "Snacks",
+                "Desserts",
+                "Rajasthani",
+                "South Indian",
+                "Maharashtrian",
+                "Sweets"
+            ],
+            "avgRating": 4.3,
+            "veg": true,
+            "feeDetails": {
+                "restaurantId": "353806",
+                "fees": [
+                    {
+                        "name": "BASE_DISTANCE",
+                        "fee": 5300
+                    },
+                    {
+                        "name": "BASE_TIME"
+                    },
+                    {
+                        "name": "ANCILLARY_SURGE_FEE"
+                    }
+                ],
+                "totalFee": 5300
+            },
+            "parentId": "319582",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "1K+",
+            "sla": {
+                "deliveryTime": 28,
+                "lastMileTravel": 5,
+                "serviceability": "SERVICEABLE",
+                "slaString": "28 mins",
+                "lastMileTravelString": "5.0 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2023-09-01 23:59:00",
+                "opened": true
+            },
+            "badges": {
+                "textExtendedBadges": [
+                    {
+                        "iconId": "guiltfree/GF_Logo_android_3x",
+                        "shortDescription": "options available",
+                        "fontColor": "#7E808C"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "",
+                                    "fontColor": "#7E808C",
+                                    "iconId": "guiltfree/GF_Logo_android_3x",
+                                    "shortDescription": "options available"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "50% OFF",
+                "subHeader": "UPTO ₹100",
+                "discountCalloutInfo": {
+                    "message": "Free Delivery",
+                    "logoCtx": {
+                        "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                    }
+                }
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {
+            "context": "seo-data-0762643b-5033-4d4a-9c43-72ca60b1558a"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/great-indian-khichdi-by-eatfit-brindavan-nagar-1st-stage-rt-nagar-bangalore-353806",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+        "info": {
+            "id": "111834",
+            "name": "Bakingo",
+            "cloudinaryImageId": "vhoiyjb245lxu4srjak9",
+            "locality": "HMT Layout",
+            "areaName": "R T Nagar",
+            "costForTwo": "₹300 for two",
+            "cuisines": [
+                "Bakery",
+                "Desserts",
+                "Beverages",
+                "Snacks"
+            ],
+            "avgRating": 4.3,
+            "feeDetails": {
+                "restaurantId": "111834",
+                "fees": [
+                    {
+                        "name": "BASE_DISTANCE",
+                        "fee": 3300
+                    },
+                    {
+                        "name": "BASE_TIME"
+                    },
+                    {
+                        "name": "ANCILLARY_SURGE_FEE"
+                    }
+                ],
+                "totalFee": 3300
+            },
+            "parentId": "3818",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "5K+",
+            "sla": {
+                "deliveryTime": 18,
+                "lastMileTravel": 1.6,
+                "serviceability": "SERVICEABLE",
+                "slaString": "18 mins",
+                "lastMileTravelString": "1.6 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2023-09-02 01:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "discountCalloutInfo": {
+                    "message": "Free Delivery",
+                    "logoCtx": {
+                        "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                    }
+                }
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {
+            "context": "seo-data-0762643b-5033-4d4a-9c43-72ca60b1558a"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/bakingo-hmt-layout-r-t-nagar-bangalore-111834",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+        "info": {
+            "id": "560792",
+            "name": "McDonald's",
+            "cloudinaryImageId": "ee5f8e06b300efc07c9fe3f4df40dfc4",
+            "locality": "Ganganagar",
+            "areaName": "RT Nagar",
+            "costForTwo": "₹400 for two",
+            "cuisines": [
+                "Burgers",
+                "Beverages",
+                "Cafe",
+                "Desserts"
+            ],
+            "avgRating": 4.3,
+            "feeDetails": {
+                "restaurantId": "560792",
+                "fees": [
+                    {
+                        "name": "BASE_DISTANCE",
+                        "fee": 2800
+                    },
+                    {
+                        "name": "BASE_TIME"
+                    },
+                    {
+                        "name": "ANCILLARY_SURGE_FEE"
+                    }
+                ],
+                "totalFee": 2800
+            },
+            "parentId": "630",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "1K+",
+            "sla": {
+                "deliveryTime": 18,
+                "lastMileTravel": 2,
+                "serviceability": "SERVICEABLE",
+                "slaString": "18 mins",
+                "lastMileTravelString": "2.0 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2023-09-02 00:45:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "10% OFF",
+                "subHeader": "ABOVE ₹999",
+                "discountTag": "FLAT DEAL",
+                "discountCalloutInfo": {
+                    "message": "Free Delivery",
+                    "logoCtx": {
+                        "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                    }
+                }
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {
+            "context": "seo-data-0762643b-5033-4d4a-9c43-72ca60b1558a"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/mcdonalds-ganganagar-rt-nagar-bangalore-560792",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+        "info": {
+            "id": "23353",
+            "name": "Nandhana Palace",
+            "cloudinaryImageId": "195876a3181ef63f76e45e3a7b49b585",
+            "locality": "E Block",
+            "areaName": "Sahakara Nagar",
+            "costForTwo": "₹500 for two",
+            "cuisines": [
+                "Biryani",
+                "Andhra",
+                "South Indian",
+                "North Indian"
+            ],
+            "avgRating": 4.2,
+            "feeDetails": {
+                "restaurantId": "23353",
+                "fees": [
+                    {
+                        "name": "BASE_DISTANCE",
+                        "fee": 5800
+                    },
+                    {
+                        "name": "BASE_TIME"
+                    },
+                    {
+                        "name": "ANCILLARY_SURGE_FEE"
+                    }
+                ],
+                "totalFee": 5800
+            },
+            "parentId": "2120",
+            "avgRatingString": "4.2",
+            "totalRatingsString": "10K+",
+            "sla": {
+                "deliveryTime": 32,
+                "lastMileTravel": 5,
+                "serviceability": "SERVICEABLE",
+                "slaString": "32 mins",
+                "lastMileTravelString": "5.0 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2023-09-02 02:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "discountCalloutInfo": {
+                    "message": "Free Delivery",
+                    "logoCtx": {
+                        "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                    }
+                }
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {
+            "context": "seo-data-0762643b-5033-4d4a-9c43-72ca60b1558a"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/nandhana-palace-e-block-sahakara-nagar-bangalore-23353",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    }
+]
